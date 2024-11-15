@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thuraWK
-- 👀 I’m interested in programming!
-- 🌱 I’m currently learning Git and Github from FreeCodeCamp.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI/ML!
+- 🌱 I’m currently studying Electrical Engineering.
+- 💞️ I’m looking on interns related to AI/ML.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Your Myanmar friend!
